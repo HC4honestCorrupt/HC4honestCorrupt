@@ -21,19 +21,23 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hc4honestcorrupt" alt="hc4honestcorrupt" /></a> </p>
 
-- 🔭 I’m currently Doing   **Intership in NullClass Pvt. Ltd.**
+- 🔭 I’m currently Doing   **Android Application Bug Hunting .**
 
-- 🌱 I’m currently learning **Mobile Application Penetration Testing and Mobile OS Security.**
+- 🌱 I’m currently learning **Mobile Application Penetration Testing.**
 
-- 📫 How to reach me **honestcorrupt0hc4@duck.com**
+- 📫 How to reach me **soyam@soyamcybersec.xyz**
 
-- 📄 Know about my experiences Interned  **i'm a interned and also a bug hunder, VDP disclosure.**
+- 📄 Know about my experiences Interned  **CVE Report and Research**
 
 - ⚡ Fun fact  **I am a CVE Holder and CVE Author.**
 
-- 🎉 You can see my official CVE here  **https://vuldb.com/?id.310242**
+- 🎉 You can see my official CVE here  **NVD**
 
-- ✌ MY CVE ID  **CVE-2025-5154**
+-✌ MY CVE IDs
+
+CVE-2025-5154
+CVE-2025-6748
+CVE-2026-5682
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
