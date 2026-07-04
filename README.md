@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%5B%2B%5D+CVE+Author+%26+Security+Researcher;%5B%2B%5D+Android+Application+Penetration+Tester;%5B%2B%5D+Bug+Hunter+%7C+5x+Published+CVEs+on+NVD;%5B%2B%5D+2x+Cited+by+CISA-ADP+%28US+Govt%29;%5B%2B%5D+Mobile+OS+Penetration+Testing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%5B%2B%5D+CVE+Author+%26+Security+Researcher;%5B%2B%5D+Android+Application+Penetration+Tester;%5B%2B%5D+Bug+Hunter+%7C+6x+Published+CVEs+on+NVD;%5B%2B%5D+2x+Cited+by+CISA-ADP+%28US+Govt%29;%5B%2B%5D+Mobile+OS+Penetration+Testing" alt="Typing SVG" />
 
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hc4honestcorrupt&label=👁️%20Recon%20Hits&color=00FF41&style=for-the-badge)](https://github.com/hc4honestcorrupt)
-[![CVE Author](https://img.shields.io/badge/🔴%20CVE-5x%20Author-FF0000?style=for-the-badge)](https://nvd.nist.gov/)
+[![CVE Author](https://img.shields.io/badge/🔴%20CVE-6x%20Author-FF0000?style=for-the-badge)](https://nvd.nist.gov/)
 [![CISA-ADP](https://img.shields.io/badge/🇺🇸%20CISA--ADP-2x%20Cited-002868?style=for-the-badge)](https://nvd.nist.gov/)
 [![Android Security](https://img.shields.io/badge/Android-Bug%20Hunter-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/hc4honestcorrupt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soyam%20Arya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyam-arya-a90356312/)
@@ -97,12 +97,19 @@ Contact  : soyam@soyamcybersec.xyz
       <td>✅ Published</td>
       <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-12189">NVD →</a></td>
     </tr>
+    <tr>
+      <td><strong>CVE-2026-13514</strong></td>
+      <td>Chess.com — Chess: Play & Learn (Android) 4.9.42</td>
+      <td>1.6 LOW</td>
+      <td>✅ Published 🎖️ Goodwill Bounty</td>
+      <td><a href="https://vuldb.com/vuln/374522">VulDB →</a></td>
+    </tr>
   </tbody>
 </table>
 
-> 🎯 *Officially recognised CVE Author — 5x Published, 2x Cited by CISA-ADP (US Government Cybersecurity Agency) — All vulnerabilities indexed on the **National Vulnerability Database (NIST/NVD)***
+> 🎯 *Officially recognised CVE Author — 6x Published, 2x Cited by CISA-ADP (US Government Cybersecurity Agency) — All vulnerabilities indexed on the **National Vulnerability Database (NIST/NVD)***
 >
-> 📊 *Collectively impacting over 1 billion users across India's largest fintech, e-commerce, and investment platforms*
+> 📊 *Collectively impacting over 1 billion users across India's largest fintech, e-commerce, and investment platforms, plus a global gaming platform*
 
 </div>
 
@@ -197,34 +204,61 @@ Contact  : soyam@soyamcybersec.xyz
 
 ---
 
-### 🚨 PROJECT 04 — XSS Vulnerability Discovery (Bug Bounty Finding)
+### 🚨 PROJECT 04 — Chess.com Android App — Information Disclosure (CVE-2026-13514)
 
 <div align="center">
 
-[![XSS Finding](https://img.shields.io/badge/🔴_BUG_BOUNTY-XSS_DISCOVERED-FF0000?style=for-the-badge&labelColor=1a0000)](https://www.linkedin.com/posts/soyam-arya-a90356312_cybersecurity-bugbounty-xss-activity-7442097754753040384-4ocl)
-[![Type](https://img.shields.io/badge/Vuln_Type-Cross--Site_Scripting_(XSS)-orange?style=for-the-badge)](https://www.linkedin.com/posts/soyam-arya-a90356312_cybersecurity-bugbounty-xss-activity-7442097754753040384-4ocl)
-[![View Post](https://img.shields.io/badge/LinkedIn-Read%20Full%20Report-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/soyam-arya-a90356312_cybersecurity-bugbounty-xss-activity-7442097754753040384-4ocl)
+[![Chess.com CVE](https://img.shields.io/badge/🔴_CVE--2026--13514-INFO_DISCLOSURE-FF0000?style=for-the-badge&labelColor=1a0000)](https://vuldb.com/vuln/374522)
+[![Type](https://img.shields.io/badge/Vuln_Type-Information_Disclosure-orange?style=for-the-badge)](https://github.com/honestcorrupt/CHESS.COM-CVE-REQUEST)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/honestcorrupt/CHESS.COM-CVE-REQUEST)
 
 </div>
 
 ```
-[*] Vuln Type  : Cross-Site Scripting (XSS)
-[*] Discovery  : Manual penetration testing / bug bounty
-[*] Impact     : Session hijacking, credential theft, DOM manipulation
-[*] Disclosure : Responsible disclosure — published on LinkedIn
-[✔] Status     : VULNERABILITY CONFIRMED & DOCUMENTED
+[*] Vuln Type  : Information Disclosure
+[*] Target     : Chess.com — Chess: Play & Learn (Android) v4.9.42
+[*] Impact     : Sensitive information exposure identified through local device analysis
+[*] Disclosure : Responsibly disclosed via VulDB — vendor confirmed the issue
+[✔] Status     : CVE-2026-13514 — PUBLISHED — VENDOR GOODWILL BOUNTY AWARDED
 ```
 
-> ⚡ **XSS is not just a scanner alert — I find it manually, document it professionally, and disclose it responsibly.**
-> This finding showcases real-world web application security testing skills, including input validation bypass, payload crafting, and proof-of-concept exploitation.
+> 🤝 Chess.com confirmed the finding and, while it fell outside the strict scope of their public bug bounty policy, recognised the quality of the write-up with a goodwill payment.
 
-**What This Demonstrates:**
-- 🎯 Manual XSS hunting — not just running automated tools
-- 📝 Professional vulnerability write-up & documentation
-- 🤝 Responsible disclosure mindset
-- 🔍 Deep understanding of browser security models & DOM
+**[→ View Full Project on GitHub](https://github.com/honestcorrupt/CHESS.COM-CVE-REQUEST)**
 
-**[→ Read Full Write-Up on LinkedIn](https://www.linkedin.com/posts/soyam-arya-a90356312_cybersecurity-bugbounty-xss-activity-7442097754753040384-4ocl)**
+---
+
+## `$ cat goodwill_bounties.txt`
+
+```bash
+┌──(soyam㉿cybersec)-[~]
+└─$ cat goodwill_bounties.txt
+```
+
+<div align="center">
+
+### 🎖️ Goodwill Bounty Recognition — Best Report Writing
+
+<table>
+  <thead>
+    <tr>
+      <th>Vendor</th>
+      <th>Finding</th>
+      <th>Recognition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Chess.com</strong></td>
+      <td>Information Disclosure — CVE-2026-13514</td>
+      <td>🎖️ Goodwill payment for report quality (out-of-scope per policy)</td>
+    </tr>
+  </tbody>
+</table>
+
+> 📝 *Even when a finding falls outside a program's formal scope, clear, well-documented, and reproducible reporting can still earn vendor recognition. This section tracks goodwill bounties awarded specifically for the quality of the write-up rather than strict scope eligibility.*
+
+</div>
 
 ---
 
@@ -237,7 +271,7 @@ Contact  : soyam@soyamcybersec.xyz
   "expertise"      : ["Android AppSec", "CVE Research", "Responsible Disclosure", "XSS", "Dark Web / Tor"],
   "tools_of_trade" : ["Burp Suite", "ADB", "Frida", "JADX", "MobSF", "Drozer", "Objection"],
   "methodologies"  : ["OWASP Mobile Top 10", "Reverse Engineering", "Dynamic Analysis", "Static Analysis"],
-  "achievements"   : "5x CVE Author — NVD Indexed | 2x Cited by CISA-ADP (US Govt)",
+  "achievements"   : "6x CVE Author — NVD Indexed | 2x Cited by CISA-ADP (US Govt) | Goodwill Bounty Recognition",
   "open_to"        : ["Security Internships", "Bug Bounty Collaborations", "Pentest Roles", "Remote Research Contracts"]
 }
 ```
